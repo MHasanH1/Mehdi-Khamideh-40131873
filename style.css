@@ -33,6 +33,12 @@ p{
     color: #666666;
     font-size: smaller;
 }
+.singer:hover{
+    color: #2e2e2e;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
 song and the song writers -> {
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
