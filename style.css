@@ -15,6 +15,9 @@ div{
     border-radius: 15px;
     box-shadow: 3px 3px 5px #2e2e2e;
 }
+div:hover{
+    background-image: linear-gradient(rgba(171, 179, 192, 0.796), rgba(220, 234, 248, 0.792));  
+}
 bigpart -> {
     height: 400px;
     width: 270px;
