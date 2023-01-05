@@ -35,6 +35,10 @@ img{
     width: 220px;
     height: 220px;
 }
+img:hover{
+    box-shadow: 3px 3px 5px #2e2e2e;
+    transition: 0.3s;
+}
 bigpart -> {
     height: 400px;
     width: 270px;
