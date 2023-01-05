@@ -29,19 +29,3 @@ p{
     padding-top: 7px;
     padding-bottom: 7px;
 }
-
-.play,
-.back,
-.for{
-    border-color: #ffffff;
-    width: 45px;
-    height: 45px;
-    border-radius: 50%;
-}
-
-
-.back
-.for
-.play while mouseover -> {
-    border-color: #bebebe;
-}
