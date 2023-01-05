@@ -29,6 +29,10 @@ p{
     padding-top: 7px;
     padding-bottom: 7px;
 }
+ul{
+    padding-right: 40px;
+    margin-top: 15px;
+}
 
 img{
     margin-top: 5px;
@@ -51,33 +55,36 @@ img:hover{
     transition: 0.3s;
 }
 
-song and the song writers -> {
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+li{
+    display: inline-block;
+    margin : 0px;
 }
 
+input{
+    width: 280px;
+}
 
-song writers -> {
-    color: #666666;
-    font-size: smaller;
+.Time{
+    color: white;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 0px;
+    padding: 0px;
+}
+.S{
+    margin-right: 185px;
 }
 
-song writers while mouseover{
-    color: #2e2e2e;
+.play{
+    margin-left: 25px;
+    margin-right: 25px;
 }
-
-.play,
-.back,
-.for{
+button{
     border-color: #ffffff;
     width: 45px;
     height: 45px;
     border-radius: 50%;
 }
 
-
-.back
-.for
-.play while mouseover -> {
+button:hover{
     border-color: #bebebe;
 }
