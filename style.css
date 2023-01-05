@@ -29,6 +29,12 @@ p{
     padding-top: 7px;
     padding-bottom: 7px;
 }
+img{
+    margin-top: 5px;
+    border-radius: 5px;
+    width: 220px;
+    height: 220px;
+}
 bigpart -> {
     height: 400px;
     width: 270px;
