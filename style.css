@@ -29,6 +29,7 @@ p{
     padding-top: 7px;
     padding-bottom: 7px;
 }
+
 img{
     margin-top: 5px;
     border-radius: 5px;
@@ -39,19 +40,15 @@ img:hover{
     box-shadow: 3px 3px 5px #2e2e2e;
     transition: 0.3s;
 }
-bigpart -> {
-    height: 400px;
-    width: 270px;
-    rgba(171, 179, 192, 0.694), rgba(220, 234, 248, 0.674)
+
+.singer{
+    color: #666666;
+    font-size: smaller;
 }
-
-while mouseover -> {
-   rgba(171, 179, 192, 0.796), rgba(220, 234, 248, 0.792)
-}
-
-
-music player part ->{
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+.singer:hover{
+    color: #2e2e2e;
+    cursor: pointer;
+    transition: 0.3s;
 }
 
 song and the song writers -> {
