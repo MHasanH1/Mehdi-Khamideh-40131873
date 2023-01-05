@@ -6,7 +6,15 @@ html{
     height: 100%;
     #0046ae, #9198e5
 }
-
+div{
+    width: 300px;
+    height: 400px;
+    background-image: linear-gradient(rgba(171, 179, 192, 0.694), rgba(220, 234, 248, 0.674));
+    text-align: center;
+    margin: 130px 600px auto 600px;
+    border-radius: 15px;
+    box-shadow: 3px 3px 5px #2e2e2e;
+}
 bigpart -> {
     height: 400px;
     width: 270px;
