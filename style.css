@@ -29,6 +29,10 @@ p{
     padding-top: 7px;
     padding-bottom: 7px;
 }
+.singer{
+    color: #666666;
+    font-size: smaller;
+}
 song and the song writers -> {
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
