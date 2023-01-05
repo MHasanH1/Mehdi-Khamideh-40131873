@@ -29,20 +29,6 @@ p{
     padding-top: 7px;
     padding-bottom: 7px;
 }
-song and the song writers -> {
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-}
-
-
-song writers -> {
-    color: #666666;
-    font-size: smaller;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-}
-
-song writers while mouseover{
-    color: #2e2e2e;
-}
 
 .play,
 .back,
