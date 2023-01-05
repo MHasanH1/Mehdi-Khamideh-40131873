@@ -29,7 +29,44 @@ p{
     padding-top: 7px;
     padding-bottom: 7px;
 }
+ul{
+    padding-right: 40px;
+    margin-top: 15px;
+}
 
+li{
+    display: inline-block;
+    margin : 0px;
+}
+
+input{
+    width: 280px;
+}
+
+.Time{
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 0px;
+    padding: 0px;
+}
+.S{
+    margin-right: 185px;
+}
+
+.play{
+    margin-left: 25px;
+    margin-right: 25px;
+}
+button{
+    border-color: #ffffff;
+    width: 45px;
+    height: 45px;
+    border-radius: 50%;
+}
+
+button:hover{
+    border-color: #bebebe;
+}
 .play,
 .back,
 .for{
